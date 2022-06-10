@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @isrvb
+- 👋 Hi, I’m @isrvb Hacker
 - 👀 I’m interested in Cybernetics
-- 🌱 I’m currently learning Codes
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning Codes, Programmer and Reverse Enginner
+- 📫 How to reach me twitter @isrvb :)
 
 <!---
 isrvb/isrvb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
