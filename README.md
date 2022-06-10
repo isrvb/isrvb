@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @isrvb Hacker
 - 👀 I’m interested in Cybernetics
-- 🌱 I’m currently learning Codes, Programmer and Reverse Enginner
+- 🌱 The Codes so awesome Yeah!
 - 📫 How to reach me twitter @isrvb :)
 
 <!---
