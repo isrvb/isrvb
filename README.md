@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 
 # <img src="https://github.com/abhishekapk/abhishekapk/blob/master/Assests/Earth.gif" width="29px"> About me... 
 
-Hi!.. im that hacker guy that your friends told you about. Hack and vlog about the bountylife. Hackfluencer - Creative - Redteam - Student. 
+Hi!.. im that hacker guy that your friends told you about. Hacking and vlog about the bountylife. Hackfluencer - Creative - Redteam - Student. 
 
 <p align="center"> <img width="400" height="300" src="https://github.com/isrvb/isrvb/blob/main/vb.gif" style="border-radius: 10px;"> </p>
 
