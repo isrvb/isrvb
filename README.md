@@ -5,6 +5,8 @@
 
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=isrvb" alt="isrvb" /> </p>
 
+<p align="center"> <img width="400" height="300" src="https://github.com/isrvb/isrvb/blob/main/vb.gif" style="border-radius: 10px;"> </p>
+
 <p align="left"> <a href="https://twitter.com/isrvb" target="blank"><img src="https://img.shields.io/twitter/follow/isrvb?logo=twitter&style=for-the-badge" alt="isrvb" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [GitHub](GitHub)
