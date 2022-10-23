@@ -34,3 +34,9 @@ Hi!.. im that hacker guy that your friends told you about. Hacking and vlog abou
     <img alt="most used languages" width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isrvb&count_private=true&theme=algolia&bg_color=0,000000,130F40&layout=compact&border_radius=8&langs_count=20"/>
 </p>
 -->
+
+<a href="https://github.com/isrvb/github-readme-activity-graph"><img alt="VB Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=isrvb&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
+<center>
+<img src="https://github.com/isrvb/isrvb/blob/main/water.svg" style="border-radius: 10px;">
+</center>
