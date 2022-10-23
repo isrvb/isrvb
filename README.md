@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm isrvb</h1>
 <h3 align="center">Hi!.. im that hacker guy that your friends told you about. Hacking and vlog about the bountylife. Hackfluencer - Creative - Redteam - Student.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=isrvb&label=Profile%20views&color=0e75b6&style=flat" alt="isrvb" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=isrvb&label=Profile%20views&color=0e75b6&style=flat" alt="isrvb" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=isrvb" alt="isrvb" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=isrvb" alt="isrvb" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/isrvb" target="blank"><img src="https://img.shields.io/twitter/follow/isrvb?logo=twitter&style=for-the-badge" alt="isrvb" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [GitHub](GitHub)
 
-- 📝 I regularly write articles on [Bug Bounty, Report Error Code](Bug Bounty, Report Error Code)
+- 📝 I regularly write articles on [Bug Bounty life] (Report Error Code, adventures, curiosities)
 
 - 📫 How to reach me **isrv@mail.com**
 
@@ -23,15 +23,15 @@
 
 <br>
     
-<p>
+<p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=isrvb&show_icons=true&locale=en&layout=compact" alt="isrvb" />
 </p>
     
-<p>
+<p align="center">
     &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=isrvb&show_icons=true&locale=en" alt="isrvb" />
 </p>
     
-<p>
+<p align="center">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=isrvb&" alt="isrvb" />
 </p>
 
