@@ -10,6 +10,8 @@ Hi!.. im that hacker guy that your friends told you about. Hacking and vlog abou
 
 ---
 
+//<p align="center"> <img width="400" height="300" src="https://github.com/isrvb/isrvb/blob/main/vb.gif" style="border-radius: 10px;"> </p>
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/isrvb) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@isrvb) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/isrvb)
 [![image](https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/isrvb)
