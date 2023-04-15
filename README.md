@@ -1,5 +1,6 @@
 <h1 align="center">Hi! I'm VB</h1>
 <h3 align="center">Hi!.. im that hacker guy that your friends told you about. Hacking and vlog about the bountylife. Hackfluencer - Creative - Redteam - Programer - Student.</h3>
+[![](https://visitcount.itsvg.in/api?id=isrvb&icon=5&color=0)](https://visitcount.itsvg.in)
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=isrvb&label=Profile%20views&color=0e75b6&style=flat" alt="isrvb" /> </p>
 
@@ -53,6 +54,5 @@
 ![](https://github-contributor-stats.vercel.app/api?username=isrvb&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=isrvb&icon=5&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
