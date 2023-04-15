@@ -1,6 +1,6 @@
 # 💫 About Me:
 Hi!.. im that hacker guy that your friends told you about. Hacking and vlog about the bountylife. Hackfluencer - Creative - Redteam - Programer - Student.<br><br>
-
+[![](https://visitcount.itsvg.in/api?id=isrvb&icon=5&color=0)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/isrvb) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@isrvb) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/isrvb) 
@@ -16,7 +16,7 @@ Hi!.. im that hacker guy that your friends told you about. Hacking and vlog abou
 ![](https://github-contributor-stats.vercel.app/api?username=isrvb&limit=5&theme=gitdimmed&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=isrvb&icon=5&color=0)](https://visitcount.itsvg.in)
+
 
   ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/isrvb) 
